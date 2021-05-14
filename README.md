@@ -2,8 +2,8 @@
 I'm 16. I'm a Python junior programmer. Work experience — 1-2 years.
 ✔ I’m currently learning python.
 ## ⚡ Projects:
-- [Test system](https://www.google.com)
-- [Olympiads](https://www.google.com)
+- [Test system](https://github.com/aantr/test-system)
+- [Olympiads](https://github.com/aantr/olympiads)
 ## 🧥 Technologies:
 - Python: PyQt5, pymorphy, pygame, PIL, requests and APIs (Telegram, Discord, VK), parsers and scrapers
 - SQLite & MySQL: creating, projecting and controling
