@@ -1,9 +1,13 @@
 # Hi, I`m Alexander 👋
+
 I'm 16. I'm a Python junior programmer. Work experience — 1-2 years.
+
 ✔ I’m currently learning python.
 ## ⚡ Projects:
-- [Test system](https://github.com/aantr/test-system)
-- [Olympiads](https://github.com/aantr/olympiads)
+- 📱 [Test system (Flask app)](https://github.com/aantr/test-system)
+- 📋 [Olympiads (Flask app)](https://github.com/aantr/olympiads)
+- 🍔 [Restaurant helper (PyQt app)](https://github.com/aantr/restaurant_db)
+- 🚗 [Bank robbery racing (2D python game)](https://github.com/aantr/yandex-pygame)
 ## 🧥 Technologies:
 - Python: PyQt5, pymorphy, pygame, PIL, requests and APIs (Telegram, Discord, VK), parsers and scrapers
 - SQLite & MySQL: creating, projecting and controling
