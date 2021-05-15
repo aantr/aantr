@@ -1,6 +1,6 @@
 # Hi, I`m Alexander 👋
 
-I'm 16. I'm a Python junior programmer. Work experience — 1-2 years.
+I'm a Python junior programmer.
 
 ✔ I’m currently learning python.
 ## ⚡ Projects:
