@@ -2,7 +2,7 @@
 
 I'm a Python junior programmer.
 
-✔ I’m currently learning python.
+✔ I’m currently learning tools for web apps: [React](https://reactjs.org/), [Django](https://www.djangoproject.com/).
 ## ⚡ Projects:
 - 📱 [Test system (Flask app)](https://github.com/aantr/test-system)
 - 📋 [Olympiads (Flask app)](https://github.com/aantr/olympiads)
@@ -10,8 +10,9 @@ I'm a Python junior programmer.
 - 🚗 [Bank robbery racing (2D python game)](https://github.com/aantr/yandex-pygame)
 ## 🧥 Technologies:
 - Python: PyQt5, pymorphy, pygame, PIL, requests and APIs (Telegram, Discord, VK), parsers and scrapers
-- SQLite & MySQL: creating, projecting and controling
-- Testing: pytest/unittest, initial and interface testing
+- Flask: creating web apps, integration with SQLite
+- SQLite: controlling database
+- Testing: pytest/unittest
 ## 💌 Contacts:
 - [VK](https://vk.com/antropov.alexander)
 - [Telegram](https://t.me/Av0kad0)
