@@ -2,7 +2,6 @@
 
 I'm a Python junior programmer.
 
-✔ I’m currently learning tools for web apps: [React](https://reactjs.org/), [Django](https://www.djangoproject.com/).
 ## ⚡ Projects:
 - 📱 [Test system (Flask app)](https://github.com/aantr/test-system)
 - 📋 [Olympiads (Flask app)](https://github.com/aantr/olympiads)
