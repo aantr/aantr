@@ -1,7 +1,7 @@
 # Hi, I`m Alexander 👋
 
-I'm a Python junior programmer.
-
+# Love sport, any activity with hard work.
+# Here you can find atmost projects I've done with Yandex Lyceum and some algorithms I use in Sport Programming
 ## ⚡ Projects:
 - 📱 [Test system (Flask app)](https://github.com/aantr/test-system)
 - 📋 [Olympiads (Flask app)](https://github.com/aantr/olympiads)
