@@ -1,7 +1,6 @@
 # Hi, I`m Alexander 👋
 
-# Love sport, any activity with hard work.
-# Here you can find atmost projects I've done with Yandex Lyceum and some algorithms I use in Sport Programming
+# Here you can find projects i've done with Yandex Lyceum and some algorithms i use in sport programming
 ## ⚡ Projects:
 - 📱 [Test system (Flask app)](https://github.com/aantr/test-system)
 - 📋 [Olympiads (Flask app)](https://github.com/aantr/olympiads)
