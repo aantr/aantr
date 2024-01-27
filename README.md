@@ -13,5 +13,5 @@
 - Testing: pytest/unittest
 ## 💌 Contacts:
 - [VK](https://vk.com/antropov.alexander)
-- [Telegram](https://t.me/Av0kad0)
+- [Telegram](https://t.me/aaantr)
 - [Discord](https://discordapp.com/users/700407237767594145)
